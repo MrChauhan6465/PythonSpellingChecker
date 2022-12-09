@@ -4,8 +4,11 @@
 This Python spelling checker project is built using the NLTK, re, and Tkinter modules. It provides an intuitive, graphical user interface for quickly correcting spelling errors in text documents. The program utilizes natural language processing (NLP) techniques to analyse and identify potential errors in the text. The program is easy to use and can be used on any platform.
 
 
-## Screenshots
-![my gif-maker](https://user-images.githubusercontent.com/89354259/201486497-bfdc0bfe-bfc3-4818-8353-d0beb0b4ef33.gif)
+## Demo
+
+
+https://user-images.githubusercontent.com/89354259/206767020-7866d4fc-510c-440d-9b0f-44d0036ccf40.mp4
+
 
 
 
